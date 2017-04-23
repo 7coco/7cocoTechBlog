@@ -4,7 +4,7 @@ date = "2017-04-22T13:38:18+09:00"
 draft = false
 slug = ""
 tags = ["about","me"]
-title = ""
+title = "このブログを書いている人について"
 topics = ["",""]
 
 +++
