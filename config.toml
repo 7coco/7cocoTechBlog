@@ -18,7 +18,7 @@ paginate = 10
   # googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "https-7coco-github-io"
   # CSS name for highlight.js
-  # highlightjs = "androidstudio"
+  highlightjs = "default"
   dateFormat = "02 Jan 2006, 15:04"
   # Include any custom CSS and/or JS files
   # (relative to /static folder)
