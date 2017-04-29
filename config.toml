@@ -15,7 +15,7 @@ paginate = 10
   # Shown in the home page
   subtitle = "18歳女子が高卒でエンジニアになってから。"
   brand = "7cocoTechBlog"
-  # googleAnalytics = "Your Google Analytics tracking ID"
+  googleAnalytics = "UA-97896246-1"
   disqus = "https-7coco-github-io"
   # CSS name for highlight.js
   highlightjs = "default"
