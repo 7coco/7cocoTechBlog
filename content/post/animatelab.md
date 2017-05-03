@@ -4,7 +4,7 @@ date = "2017-05-02T09:04:00+09:00"
 draft = false
 slug = ""
 tags = ["インターン",""]
-title = "Animatelab での初めての実務経験"
+title = "初めての実務経験 @Animatelab"
 topics = ["インターン体験談",""]
 
 +++
