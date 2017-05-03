@@ -5,7 +5,7 @@ draft = false
 slug = ""
 tags = ["インターン",""]
 title = "自分らしく働ける場所を探して @CrowdWorks"
-topics = ["インターン経験談",""]
+topics = ["インターン体験談",""]
 
 +++
 # 当時の記録をそのまま転記
