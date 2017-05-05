@@ -1,7 +1,7 @@
 +++
 comments = true
 date = "2017-05-02T09:04:00+09:00"
-draft = true
+draft = false
 slug = ""
 tags = ["インターン",""]
 title = "初めての実務経験 @Animatelab"
